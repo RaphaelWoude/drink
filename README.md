@@ -1,5 +1,6 @@
 # drink
 Dependency Injection-based Command Library for Spigot plugins inspired by Google's Guice and sk89q's Intake.
+Removed hover & click events to support older minecraft versions.
 
 ## What is drink?
 drink is a command library designed to remove the repetitive code involved with writing commands for Spigot plugins specifically.
